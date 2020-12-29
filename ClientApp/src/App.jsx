@@ -3,6 +3,15 @@ import './custom.scss'
 
 export function App() {
   return (
-    <div className="d-flex justify-content-center display-2">Hello, World!</div>
+    <>
+      <div className="header-container">
+        <header>
+          <ul>
+            <li>icon</li>
+            <li>ToDo</li>
+          </ul>
+        </header>
+      </div>
+    </>
   )
 }
