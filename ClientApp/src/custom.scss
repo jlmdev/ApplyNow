@@ -27,3 +27,27 @@ header {
 .header-spacer {
   height: 50px;
 }
+
+header ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid white;
+  height: 50px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding: 0;
+}
+
+header ul li {
+  list-style: none;
+  display: flex;
+  border: 1px dashed yellow;
+  margin: 20px;
+}
+
+.task {
+  border: 1px solid blue;
+  width: 80%;
+  margin: auto;
+}
