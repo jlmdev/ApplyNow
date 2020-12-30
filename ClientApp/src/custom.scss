@@ -49,5 +49,13 @@ header ul li {
 .task {
   border: 1px solid blue;
   width: 80%;
-  margin: auto;
+  margin: 10px auto;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+  height: 50px;
+  background-color: darkgreen;
 }

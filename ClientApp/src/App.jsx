@@ -22,8 +22,9 @@ export function App() {
           <li>Notes:</li>
         </ul>
       </div>
-
-      <a href="https://icons8.com/icon/3095/menu">Menu icon by Icons8</a>
+      <footer>
+        <a href="https://icons8.com/icon/3095/menu">Menu icon by Icons8</a>
+      </footer>
     </>
   )
 }
