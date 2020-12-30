@@ -11,6 +11,7 @@ export function App() {
             <li>ToDo</li>
           </ul>
         </header>
+        <div className="header-spacer"></div>
       </div>
     </>
   )
