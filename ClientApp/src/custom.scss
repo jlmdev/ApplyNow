@@ -58,4 +58,12 @@ footer {
   width: 100vw;
   height: 50px;
   background-color: darkgreen;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer a {
+  color: whitesmoke;
 }
