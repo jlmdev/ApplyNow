@@ -17,8 +17,11 @@ export function App() {
         <ul>
           <li>Description:</li>
           <li>Priority:</li>
+          <li>Status:</li>
           <li>Start Date:</li>
           <li>Due Date:</li>
+          <li>Complete %</li>
+          <li>Complete</li>
           <li>Notes:</li>
         </ul>
       </div>
